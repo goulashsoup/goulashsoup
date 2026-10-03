@@ -4,11 +4,13 @@ I am software developer currently located in St. Gallen, Switzerland 🇨🇭.
 
 Right now in the role of an infrastructure / platform / devops engineer.
 
+Born and raised 13th december 1993 in Germany 🇩🇪, I moved to Switzerland 🇨🇭 in October 2022.
+
 I live by the golden rule as best as i can: Treat others like I would want to be treated in their situation.
 
 I almost always aim for the most time-efficient solution which fits perfectly to a role where simplification and automation are the central goals. 
 
-### Work History
+### Skill History
 
 In 2016 I started as a full-stack Symfony PHP developer during my Systems Engineering Bachelor's degree programme with a student job.
 
