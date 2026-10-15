@@ -22,7 +22,8 @@ You can check my technical hard skills in my [Curriculum Vitae](https://github.c
 
 ### Reach Me
 
-Feel free to write me a mail.
+- Feel free to write me a mail.
+- Or Discord for private message: goulashsoup2
 
 ### Gists / Researches
 
