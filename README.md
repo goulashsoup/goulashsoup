@@ -27,9 +27,10 @@ You can check my technical hard skills in my [Curriculum Vitae](https://github.c
 
 ### Gists / Researches
 
-- [Introduction to HTTPS, TLS and X.509 certificates](https://github.com/goulashsoup/introduction-to-https/blob/main/Learning%20HTTPS.md)
+- [Things we can do to mitigate the artificial intelligence takeover](https://gist.github.com/goulashsoup/05399462306fbd604b85d85880091fd3)
 - [Overview of the kubernetes architecture in ASCII](https://gist.github.com/goulashsoup/768a809919b309d3949622c798c80e28)
 - [Kubernetes memory metrics](https://gist.github.com/goulashsoup/c08bf7e9dd3703dcc472ff7e8c6ea5f7)
+- [Introduction to HTTPS, TLS and X.509 certificates](https://github.com/goulashsoup/introduction-to-https/blob/main/Learning%20HTTPS.md)
 - [Health risks of artificial sweeteners](https://gist.github.com/goulashsoup/df3116320c3ac971aa407883e237145a)
 
 You can message me if something seems incorrect, will check and apply.
